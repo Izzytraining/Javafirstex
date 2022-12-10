@@ -16,3 +16,24 @@ else if //statement
 
 //focus on input field
 //adding task
+
+//typeof - what is it?
+
+//number
+const score =95
+console.log(typeof score)
+//string
+const firstname = "james"
+console.log(typeof firstname)
+//boolean
+const canVote = true
+console.log(typeof canVote)
+
+//Null
+
+//Undefined
+testVar = undefined
+
+//null empty
+//undefined  not even there
+//nan there but not a number 
